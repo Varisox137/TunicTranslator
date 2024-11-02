@@ -2,4 +2,6 @@
 /env/
 /__pycache__/
 *.txt
+*.jpg
+*.png
 *.cache
