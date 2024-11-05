@@ -234,14 +234,5 @@ def encode_full_text(accent:Literal['en','us'], full_text:str)->list[Union[list[
 
 if __name__=='__main__':
     # test
-    import json
-    with open('./input.txt', 'r') as file_object: full_text_str=file_object.read()
-    eg_text_list=list(slice_tokens_from_string(full_text_str))
-    eg_text_list=list(''.join(eg_text_list))
-    print(eg_text_list)
-    with open('./encoding.cache', 'r') as cache_file: cache_dict=json.load(cache_file)
-    eg_text_cached=list(list(cache_dict.keys())[0])
-    print(eg_text_cached)
-
     phonetics_str=input('Enter word phonetics string: ')
     print(__encode_word_phonetics(phonetics_str))
