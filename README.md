@@ -2,11 +2,11 @@
 
 本项目是一个用于将英语翻译为Tunic语言的工具。Tunic语言是游戏《[Tunic](https://store.steampowered.com/app/553420/TUNIC/)》中的符文文字。
 
-在[Norgannon1028](https://github.com/Norgannon1028)的[原项目](https://github.com/Norgannon1028/Tunic-Translator)的基础上进行了较多的修改。
+在[Norgannon1028](https://github.com/Norgannon1028)的[原项目](https://github.com/Norgannon1028/TunicTranslator)的基础上进行了较多的修改。
 
 A tool for translating English into Tunic language, which is a runic language in the video game [Tunic](https://store.steampowered.com/app/553420/TUNIC/).
 
-Quite a lot of modifications are made based on the original [repository](https://github.com/Norgannon1028/Tunic-Translator) of [Norgannon1028](https://github.com/Norgannon1028).
+Quite a lot of modifications are made based on the original [repository](https://github.com/Norgannon1028/TunicTranslator) of [Norgannon1028](https://github.com/Norgannon1028).
 
 ## 运行配置 / Requirements
 
